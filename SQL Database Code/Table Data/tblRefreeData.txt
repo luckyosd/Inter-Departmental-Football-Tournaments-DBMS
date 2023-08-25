@@ -1,0 +1,13 @@
+INSERT INTO tblreferee
+VALUES
+(101,'Hasan','BFF'),
+(102,'Sharif','BFF'),
+(103,'Suneel','BFF'),
+(104,'Basit','BFF'),
+(105,'Ripon','BFF'),
+(106,'Anil','BFF'),
+(107,'Salauddin','BFF'),
+(108,'Rahu','BFF'),
+(109,'Foyez','BFF'),
+(110,'Jewel','BFF'),
+(111,'Raju','BFF');
